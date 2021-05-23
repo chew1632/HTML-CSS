@@ -144,7 +144,6 @@ nav ul li a:visited:hover {
   margin: 0px;
 }
 .content {
-  /* background-color: aqua; */
   padding: 0px 100px 0px 100px;
 }
 .mainContent {
@@ -153,7 +152,6 @@ nav ul li a:visited:hover {
 }
 .mainContentHeader {
   padding: 15px 15px 15px 30px;
-  /* width: 100%; */
   background-color: #718daa;
   margin: 0px;
   color: white;
@@ -216,7 +214,7 @@ nav ul li a:visited:hover {
 .search {
   padding: 10px;
 }
-/* .................... */
+
 a {
   color: #26890d;
 }
@@ -421,7 +419,7 @@ a:focus {
     content: none;
   }
 }
-/* .................... */
+
 .advertise {
   display: flex;
   height: 30vh;
@@ -751,31 +749,3 @@ footer {
   }
 }
 
-/* navigation bar */
-/* @media only screen and (max-width: 798px) {
-  .nav-mobile {
-    display: block;
-  }
-  nav ul {
-    display: none;
-  }
-  nav ul li {
-    float: none;
-  }
-  nav ul li a {
-    padding: 15px;
-    line-height: 20px;
-  }
-  nav ul li ul li a {
-    padding-left: 30px;
-  }
-
-  .nav-dropdown {
-    position: static;
-  }
-} */
-/* @media screen and (min-width: 799px) {
-  .nav-list {
-    display: block !important;
-  }
-} */
